@@ -43,3 +43,4 @@ This project shows how:
 3. Install dependencies  
    ```bash
    pip install -r requirements.txt
+4. Run RunDashboard.ipynb
